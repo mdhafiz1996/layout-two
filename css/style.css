@@ -1,0 +1,125 @@
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.logo1{
+    width: 15%;
+    float: left;
+
+}
+
+.logo img{
+   width: 100%;
+}
+
+.manu{
+    width: 70%;
+    float: right;
+}
+.manu ul{
+   float: right;
+}
+.manu ul li{
+   float: left;
+    list-style: none;
+}
+.manu ul li a{
+    text-decoration: none;
+    padding: 5px 15px;
+    text-transform: uppercase;
+    display: block;
+}
+.manu ul li a:hover{
+    color: green;
+}
+
+.header-setion{ border-bottom: 1px solid #eaeaea;}
+   
+
+.contant{
+    text-align: center;
+}
+.contant h1 {
+    font-size: 66px;
+    color: #142B5A;
+    padding: 0px 195px;
+}
+.contant h1 span{
+    color: #008AFF;
+}
+.contant p {
+    font-size: 18px;
+}
+.contant img{
+    width: 100%;
+    height:auto;
+}
+.left{
+    width: 40%;
+    float: left;
+}
+.left h2 {
+    text-align: right;
+    color: red;
+    margin-top: 59px;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.left p {
+    text-align: right;
+    font-size: 20px;
+}
+.right{
+    width: 40%;
+    float: right;
+}
+h3 {
+    font-size: 54px;
+    margin-left: 39px;
+   
+    line-height: 0.9;
+}
+.image-galary{
+    
+}
+.gallary {
+    width: 29.33%;
+    background: #FDEDED;
+    padding: 15px;
+    padding: 15px 5px;
+    border-radius: 5px;
+    float: left;
+    margin-right: 21px;
+    margin-top: 28px;
+    padding: 10px;
+}
+
+.gallary img{
+   
+    height: 200px;
+}
+img{
+    width: 100%;
+}
+.gallary p {
+    font-size: 22px;
+    margin-bottom: 0px;
+    margin-top: 37px;
+}
+.gallary h4 {
+    font-size: 31px;
+    font-weight: 700;
+    margin-top: 34px;
+    margin-bottom: 0px;
+}
+.grid1{
+   background-color:  #EDF9F4;
+    
+}
+.grid2{
+   background-color:  #FFF7F8;
+}
+
+
